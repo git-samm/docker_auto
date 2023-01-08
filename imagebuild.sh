@@ -5,7 +5,7 @@
 #Company: Etech Consulting LLC
 today=`date`
 user=`whoami`
-dockeruser=yourcase
+dockeruser=engrsamu
 password=yourcase
 dockerrepo=yourcase
 versions=( 18.04 20.04 21.10 16.04 22.04 )
